@@ -1,4 +1,4 @@
-const bsn = require('bootstrap.native/lib/build-module.js')
+const bsn = require('bootstrap.native')
 const { getOptions } = require('loader-utils')
 
 module.exports = function () {
